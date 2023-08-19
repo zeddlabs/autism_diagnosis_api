@@ -1,4 +1,4 @@
-# Weather App
+# Autism Diagnosis REST API
 
 A REST API that can be used to diagnose autism in adults. In this project, a decision tree algorithm is used to diagnose autism.
 
