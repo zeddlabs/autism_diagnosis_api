@@ -2,9 +2,14 @@
 
 A REST API that can be used to diagnose autism in adults. In this project, a decision tree algorithm is used to diagnose autism.
 
-## Getting Started
+## Tech Stack
 
----
+- Python
+- Pandas
+- Scikit-learn
+- Flask
+
+## Getting Started
 
 ### Installation
 
