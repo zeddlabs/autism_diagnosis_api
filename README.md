@@ -18,7 +18,7 @@ Here are the steps to run this project on your local computer.
 1. Give a star to this repo.
 2. Clone this repo.
    ```sh
-   git clone https://github.com/zulfikarpinem/autism_diagnosis_api.git
+   git clone https://github.com/zeddlabs/autism_diagnosis_api.git
    ```
 3. Change current working dir to `/autism_diagnosis_api`.
 4. Get all requirements.
